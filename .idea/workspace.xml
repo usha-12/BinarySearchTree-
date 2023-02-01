@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a44b946-bf5c-4f3b-aa45-6c063726367b" name="Changes" comment="" />
+    <list default="true" id="0a44b946-bf5c-4f3b-aa45-6c063726367b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/brideglabz/bst/BinaryNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/brideglabz/bst/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/brideglabz/bst/BinaryTreeMain.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2L8vwdS9sq5js6qbauNF3CVYaUf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -29,5 +36,16 @@
       <updated>1675265768214</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
